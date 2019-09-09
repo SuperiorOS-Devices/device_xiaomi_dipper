@@ -14,4 +14,4 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/syberia_dipper.mk
+    $(LOCAL_DIR)/superior_dipper.mk
