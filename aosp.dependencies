@@ -5,9 +5,10 @@
     "branch": "ten"
   },
   {
-    "repository":  "kernel_xiaomi_dipper",
+    "repository":  "LineageOS/android_kernel_xiaomi_sdm845",
     "target_path": "kernel/xiaomi/dipper",
-    "branch": "ten"
+    "branch": "lineage-17.0",
+    "remote": "github"
   },
   {
     "repository": "packages_apps_GoogleCameraMod",
