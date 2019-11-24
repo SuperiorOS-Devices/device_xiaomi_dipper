@@ -21,7 +21,6 @@ TARGET_HAS_WIDE_COLOR_DISPLAY := true
 TARGET_USES_COLOR_METADATA := true
 
 # Kernel
-TARGET_KERNEL_SOURCE := kernel/xiaomi/sdm845
 TARGET_KERNEL_CONFIG := simple-dipper_defconfig
 
 # HIDL
